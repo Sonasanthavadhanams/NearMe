@@ -173,18 +173,3 @@ Execute the programs and publish them.
 The program for implementing image maps using HTML is executed successfully.
 
 
-```
-
-## OUTPUT
-![alt text](<Screenshot (42).png>)
-![alt text](<Screenshot (43).png>)
-![alt text](<Screenshot (44).png>)
-![alt text](<Screenshot (45).png>)
-![alt text](<Screenshot (46).png>)
-![alt text](<Screenshot (47).png>)
-
-
-
-
-## RESULT
-The program for implementing image maps using HTML is executed successfully.
